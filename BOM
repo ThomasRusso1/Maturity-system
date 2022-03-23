@@ -1,0 +1,10 @@
+# Bill of Material
+- Rasperry Pi 4 model B, RAM indifferent
+- Arduino Uno board, for wireless temperature measurement
+- 2 modules nRF24l01
+- 2 signal amplifier: adafruit MAX31865
+- 2 RTD PT100 temperature sensors: 1 covered with only a thin layer for air temperature measurement, the other one with regular cover to ensure integrity while embedded into concrete
+- Relay: solid state relay is preferable
+- logic voltage converter 3V - 5V
+- LCD screen 4x20
+- 4 push buttons
